@@ -5,4 +5,5 @@ BNG assigns them an IP address via its local DHCP server and its sla-profile in 
 sla-profile -- rate 2000  mbs 3000 kilobytes
 
 Topology:
+
 <img width="632" height="144" alt="image" src="https://github.com/user-attachments/assets/1ce32322-65fa-4c67-9ad0-08a31bcd9354" />
