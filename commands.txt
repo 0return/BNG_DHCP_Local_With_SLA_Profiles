@@ -1,0 +1,1 @@
+# running bng on the bngblasterbngblaster -C /configs/ipoe.json  # verify commands on the BNGshow service id 18 dhcp lease-state  show service id 18 subscriber-hosts detailshow service active-subscribers    
